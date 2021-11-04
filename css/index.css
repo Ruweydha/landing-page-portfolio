@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway");
 @import url("https://fonts.googleapis.com/css?family=Playfair Display");
 @import url("https://fonts.googleapis.com/css?family=Nunito");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
 body{
     box-sizing: border-box;
 }
@@ -48,7 +49,7 @@ h1{
     font-size: 64px;
     line-height: 76.8px;
 }
-#Aboutme{
+p{
     font-family: "Nunito";
     margin-left: 5%;
     line-height: 36px;
@@ -66,4 +67,31 @@ h2{
 }
 span{
     text-decoration: underline 5px solid orangered;
+}
+.project1{
+    display: flex;
+    justify-content: space-around;
+    margin: 10%;
+    margin-top: 2%;
+    box-shadow: 5px 5px 5px grey;
+}
+.writing, .image{
+    width: 50%;
+}
+#landing{
+    width: 100%;
+}
+button{
+    height: 43px;
+    width: 150px;
+    margin: 5%;
+    margin-top: none;
+    border: none;
+    border-radius: 24px;
+    padding: 8px, 24px, 8px, 24px;
+    font-family: "Roboto";
+     
+}
+.heading{
+    text-decoration: 5px solid orangered underline;
 }
