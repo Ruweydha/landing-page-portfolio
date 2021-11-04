@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Comfortaa");
 @import url("https://fonts.googleapis.com/css?family=Raleway");
 @import url("https://fonts.googleapis.com/css?family=Playfair Display");
+@import url("https://fonts.googleapis.com/css?family=Nunito");
 body{
     box-sizing: border-box;
 }
@@ -26,7 +27,6 @@ a:hover{
 }
 .name{
     flex-grow: 0.5;
-    font-weight: 600;
 }
 #Ruweydha{
     width: 30%;
@@ -46,4 +46,12 @@ h1{
     color: #333333;
     font-size: 64px;
     line-height: 76.8px;
+}
+#Aboutme{
+    font-family: "Nunito";
+    margin-left: 5%;
+    line-height: 36px;
+    font-size: larger;
+    width: 50%;
+    color: #828282;
 }
