@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Comfortaa");
 @import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url("https://fonts.googleapis.com/css?family=Playfair Display");
 body{
     box-sizing: border-box;
 }
@@ -20,10 +21,29 @@ a{
 a:hover{
     color: orangered;
 }
-div:nth-child(2){
+.about{
     border-bottom: 3px solid #25282B;
 }
 .name{
     flex-grow: 0.5;
     font-weight: 600;
+}
+#Ruweydha{
+    width: 30%;
+    clip-path: circle();
+    float: right;
+    margin-right: 5%;
+}
+h3{
+    color: orangered;
+    padding-top: 5%;
+    margin-left: 5%;
+}
+h1{
+    font-family: "Playfair Display";
+    margin-left: 5%;
+    width: 50%;
+    color: #333333;
+    font-size: 64px;
+    line-height: 76.8px;
 }
