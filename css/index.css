@@ -29,19 +29,20 @@ a:hover{
     flex-grow: 0.5;
 }
 #Ruweydha{
-    width: 30%;
+    width: 35%;
     clip-path: circle();
     float: right;
     margin-right: 5%;
 }
 h3{
     color: orangered;
-    padding-top: 5%;
+    padding-top: 12%;
     margin-left: 5%;
 }
 h1{
     font-family: "Playfair Display";
     margin-left: 5%;
+    margin-right: 5%;
     width: 50%;
     color: #333333;
     font-size: 64px;
@@ -52,6 +53,17 @@ h1{
     margin-left: 5%;
     line-height: 36px;
     font-size: larger;
-    width: 50%;
+    width: ;
     color: #828282;
+}
+h2{
+    clear: both;
+    font-family: "Playfair Display";
+    text-align:center;
+    color: #25282B;
+    font-size: 48px;
+    line-height: 72px;
+}
+span{
+    text-decoration: underline 5px solid orangered;
 }
