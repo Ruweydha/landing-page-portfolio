@@ -68,7 +68,7 @@ h2{
 span{
     text-decoration: underline 5px solid orangered;
 }
-.project1{
+.project1, .project2{
     display: flex;
     justify-content: space-around;
     margin: 10%;
@@ -78,7 +78,7 @@ span{
 .writing, .image{
     width: 50%;
 }
-#landing{
+#landing, #photography{
     width: 100%;
 }
 button{
