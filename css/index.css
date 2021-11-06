@@ -95,3 +95,8 @@ button{
 .heading{
     text-decoration: 5px solid orangered underline;
 }
+
+footer{
+    display: flex;
+    justify-content: center;
+}
