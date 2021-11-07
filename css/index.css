@@ -96,7 +96,7 @@ button{
     text-decoration: 5px solid orangered underline;
 }
 
-footer{
+.socials{
     display: flex;
     justify-content: center;
 }
