@@ -103,3 +103,10 @@ button{
 ul{
     list-style: none;
 }
+footer{
+    font-size: x-large;
+    text-align: center;
+    font-family: "Roboto";
+    margin-top: 1%;
+    color: orangered;
+}
