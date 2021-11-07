@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway");
 @import url("https://fonts.googleapis.com/css?family=Playfair Display");
 @import url("https://fonts.googleapis.com/css?family=Nunito");
-@import url("https://fonts.googleapis.com/css?family=Roboto");
+/* @import url("https://fonts.googleapis.com/css?family=Roboto"); */
 body{
     box-sizing: border-box;
 }
@@ -92,11 +92,10 @@ button{
     font-family: "Roboto";
      
 }
-.heading{
+#heading{
     text-decoration: 5px solid orangered underline;
 }
-
-.socials{
+#socials{
     display: flex;
     justify-content: center;
 }
